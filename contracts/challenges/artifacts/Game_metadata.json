@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "players",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "start",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/challenges/challenge4.sol": "Game"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/challenges/challenge4.sol": {
+			"keccak256": "0x6404cd641f3bad4f8d4a3b6da547ee5d19f3df60e8f702d4370936b8ba264488",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://e0f288fc6b205e3db46e6c18e2343e6eb47b5ece44e07e6f3dcd8b1748f4ca25",
+				"dweb:/ipfs/QmVtnRBNN7asV4tC1BW2rzeZWMG7gigWwVQtXmwzHrwvyc"
+			]
+		}
+	},
+	"version": 1
+}
