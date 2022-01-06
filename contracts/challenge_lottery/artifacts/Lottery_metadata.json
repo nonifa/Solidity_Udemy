@@ -95,11 +95,11 @@
 	},
 	"sources": {
 		"contracts/challenge_lottery/lottery_sc.sol": {
-			"keccak256": "0xd1d8b396fd666122a29b7b371b86cdda01f4d3229bc3b8c0fb1663a3391953a2",
+			"keccak256": "0xda0bb8f2f4e5976ca22a8be3341d9536506e9fc4ad767736cef703c1f7c697f8",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://11b008c716322873024816bc4e2da03cb3c306ca89a01d03101e2e04f9ddad55",
-				"dweb:/ipfs/QmYEgxLcSzqkVE6aHLphVHZc7wyNKHVNp7PGaGXZmF2wUT"
+				"bzz-raw://62305063bad4fde9488a4bd7987b2eb77f389b81052cb811efea1173914d927e",
+				"dweb:/ipfs/QmcCXvctWbCbodV3iaRXkUEWKxjQktdWmcS4B6YpuFGBj4"
 			]
 		}
 	},
